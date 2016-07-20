@@ -1,0 +1,60 @@
+div{
+	background-color: #6AC482;
+	border: white;
+	margin:10px 80px;
+	padding: 10px 10px;
+	
+
+}
+.cancha{
+	border:  1px solid white;	
+	margin: 1px;
+	padding: 10px 20px;
+}
+
+.porteria1{
+	border: 1px solid white;
+	position: absolute;
+	right: 20px;
+	height:200px;
+	width:100px;
+	top: 150px;
+}
+
+.porteria2{
+	border:1px solid white;
+	position: relative;
+	right: 100px;
+	height:200px ;
+	width:100px ;
+	top: 100px;
+	
+}
+.centro { 
+	position: relative;
+	bottom: 100px;
+	left: 400px;
+  	border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 300px;
+    height: 200px;
+    width:200px;
+    
+}
+.bola1{
+	position: absolute;
+	bottom:8px;
+	right: 125px;
+}
+.bola2{
+	position: absolute;
+	left: 110px;
+	top:5px;
+}
+.bola3{
+	position: absolute;
+	left: 700px;
+	top:100px;
+
+}  
